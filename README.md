@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1>Hi 👋, I'm Muhammad Hasnat</h1>
+<h4>A passionate frontend developer from Pakistan</h4>
  
 ## 💫 About Me:
 🔭 I’m currently working on The Wild Oasis<br><br>🌱 I’m currently learning Node JS, PostgreSQL, Express JS<br><br>🤝 I can help in building scalable fast applications on industries: Healthcare, Fintech, eCommerce & SaaS<br><br>👨‍💻 All of my projects are available at https://github.com/hasnatamjad?tab=repositories<br><br>💬 Ask me about React JS, Tailwind CSS, Next JS<br><br>📫 You can contact me at sh.hasnat@hotmail.com<br><br>⚡ Fun fact I also do Shopify Development-Liquid
